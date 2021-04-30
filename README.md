@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Andrew
 #### I'm a front end developer and Video editor in Melbourne
-![I'm a front end developer and Video editor in Melbourne]
 
 I really enjoy learning languages, frameworks like React,
 and CSS animation, feel free to check out my website:
