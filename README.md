@@ -1,3 +1,4 @@
+
 ### Hi there 👋, my name is Andrew
 #### I'm a front end developer and Video editor in Melbourne
 
@@ -12,9 +13,11 @@ Skills and Tools:
 <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png' height='40'>
 
 ## Examples of Work
-<img src='https://user-images.githubusercontent.com/69198575/116681121-e473bc00-a9ef-11eb-9975-8997cff7b712.gif' width='256'>
+<img src='https://user-images.githubusercontent.com/69198575/116683307-bc398c80-a9f2-11eb-94ed-c92cd3218d32.gif'>
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/andrew-hsieh-22a802205//)  
+
 
 
 
