@@ -11,8 +11,6 @@ and CSS animation.
 - 💬 Ask me about ... Anything!
 - <img align="left" alt="cat" width="20" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/facebook/65/cat_1f408.png" /> Fun fact: I have a black cat.
 
-<br />
-
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]()
