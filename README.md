@@ -31,6 +31,12 @@ and CSS animation.
 ### Talk with me
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/andrew-hsieh-22a802205//)  
 
+<details>
+  <summary>:zap: Most Used Languages</summary>
+
+<img align="left" alt="Andrew's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrew-hsieh" />
+
+</details>
 
 
 
