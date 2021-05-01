@@ -1,19 +1,15 @@
 
 ### Hi there 👋, my name is Andrew
 #### I'm a front end developer and Video editor in Melbourne
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/69198575/116774904-13973580-aaa3-11eb-9712-8bd72aa40f54.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/69198575/116774904-13973580-aaa3-11eb-9712-8bd72aa40f54.gif" width="400" />
 
 I really enjoy learning languages, frameworks like React,
 and CSS animation.
 
-- ✍ You can find my projects here [portfolio]
-- 🔭 I’m currently working on my first book.
-- 🌱 I’m currently learning React Native and Azure
-- 👯 I’m looking to collaborate on open source
+- ✍ You can find my projects here [portfolio]()
+- 🌱 I’m currently learning Node.js
 - 💬 Ask me about ... Anything!
-
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I speak 4 languages ( English, Spanish, Romanian, Russian)
+- <img align="left" alt="cat" width="20" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/facebook/65/cat_1f408.png" /> Fun fact: I have a black cat.
 
 <br />
 
