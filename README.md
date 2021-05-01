@@ -1,7 +1,7 @@
 
 ### Hi there 👋, my name is Andrew
 #### I'm a front end developer and Video editor in Melbourne
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/69198575/116774904-13973580-aaa3-11eb-9712-8bd72aa40f54.gif" width="400" />
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/69198575/116774904-13973580-aaa3-11eb-9712-8bd72aa40f54.gif" width="350" />
 
 I really enjoy learning languages, frameworks like React,
 and CSS animation.
