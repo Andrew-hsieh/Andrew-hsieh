@@ -9,7 +9,7 @@ and CSS animation.
 - ✍ You can find my projects here [portfolio]()
 - 🌱 I’m currently learning Node.js
 - 💬 Ask me about ... Anything!
-- <img align="left" alt="cat" width="20" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/facebook/65/cat_1f408.png" /> Fun fact: I have a black cat.
+- <img alt="cat" width="20" padding="0 6 0 0" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/facebook/65/cat_1f408.png" /> Fun fact: I have a black cat.
 
 ### Languages and Tools:
 
