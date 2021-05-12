@@ -29,6 +29,7 @@ and CSS animation.
 
 ### E-commerce website
 <img src='https://user-images.githubusercontent.com/69198575/117921030-57a3f900-b333-11eb-9b1d-3e7dfb369bd1.gif' loop=infinite />
+
 ### Weather website
 <img src='https://user-images.githubusercontent.com/69198575/116684845-d6746a00-a9f4-11eb-9e6f-f03bba8dad21.gif' />
 
